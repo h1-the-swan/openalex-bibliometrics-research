@@ -161,5 +161,11 @@ cython_debug/
 
 # ignore notebooks for now
 *.ipynb
+!figures_using_snapshot_gathered_works.ipynb
 
 data/
+counts_by_year/
+*.zip
+*.tar.gz
+*:Zone.Identifier
+fromjuan/
